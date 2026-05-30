@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kokyuho
-- 👀 I’m interested in Python, Web Dev and AI.
-- 🌱 I’m currently working on Full Stack Web Development with Python and React.
-- 💞️ I’m looking to collaborate on any cool projects which make the world a better place!
+- 🛠️ Software developer and builder working across Python, full-stack web apps, automation, AI tooling, and cloud infrastructure.
+- 🚀 Aerospace engineer by background, with previous experience in electric propulsion and engineering automation.
+- 🌍 Building NeoTribes World (https://neotribes.world) , a platform for mapping and connecting intentional and regenerative communities.
+- 🧠 Building ContextRealm, an open-source, self-hosted AI knowledge engine for private memory, persistent context, MCP agents, and model-independent AI workflows.
 - 📫 How to reach me: kokyuho@theneologic.com
